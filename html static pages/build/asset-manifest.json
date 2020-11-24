@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a47d7b3.chunk.css",
+    "main.js": "/static/js/main.8c8b2b45.chunk.js",
+    "main.js.map": "/static/js/main.8c8b2b45.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.591b48ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.591b48ac.js.map",
+    "static/js/2.a1e70c39.chunk.js": "/static/js/2.a1e70c39.chunk.js",
+    "static/js/2.a1e70c39.chunk.js.map": "/static/js/2.a1e70c39.chunk.js.map",
+    "static/js/3.7f361c73.chunk.js": "/static/js/3.7f361c73.chunk.js",
+    "static/js/3.7f361c73.chunk.js.map": "/static/js/3.7f361c73.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2a47d7b3.chunk.css.map": "/static/css/main.2a47d7b3.chunk.css.map",
+    "static/js/2.a1e70c39.chunk.js.LICENSE.txt": "/static/js/2.a1e70c39.chunk.js.LICENSE.txt",
+    "static/media/dataset-cover.48da6cb6.jpg": "/static/media/dataset-cover.48da6cb6.jpg",
+    "static/media/icon.0847a8d5.jpeg": "/static/media/icon.0847a8d5.jpeg",
+    "static/media/smLogo.b9fa7fc0.png": "/static/media/smLogo.b9fa7fc0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.591b48ac.js",
+    "static/js/2.a1e70c39.chunk.js",
+    "static/css/main.2a47d7b3.chunk.css",
+    "static/js/main.8c8b2b45.chunk.js"
+  ]
+}
